@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p>
-I like building things that solve real-world problems (and sometimes just to flex on my future self).
+I like building things that solve real-world problems.
 </p>
 
 <p>
