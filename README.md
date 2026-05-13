@@ -1,18 +1,16 @@
 <h1 align="left">Hi, I'm Omkar Sarode 👋</h1>
 <h3 align="left">2nd Year Cyber-Physical Systems Student @ MIT Manipal</h3>
 
-<img align="right" alt="Coding" width="420"
-src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4cWl0ZjNwZDV6ZW52NmM1dDJ6d3ZlN2M4bWxqMXdyd3RzMWs4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif](https://pin.it/3wGf6WZwx)]">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <p>
-I like building things that solve real-world problems (and occasionally debugging for hours because of a missing comma).
+I like building things that solve real-world problems (and sometimes just to flex on my future self).
 </p>
 
 <p>
-<b>Interests:</b> Machine Learning • Data Science • Fintech • Software Systems
+<strong>Interests:</strong> Machine Learning • Data Science • Fintech • Software Systems
 </p>
 
-```bash
 $ Turning caffeine into code since day 1. ☕
 
 ## 🛠️ Tech Stack
