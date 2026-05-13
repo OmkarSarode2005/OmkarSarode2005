@@ -81,13 +81,13 @@ When I'm not working on a project, I'm probably debugging for hours because of a
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=OmkarSarode2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
     alt="Omkar's GitHub Stats"
+    height="170"
   />
   <img
     src="https://streak-stats.demolab.com?user=OmkarSarode2005&theme=tokyonight&hide_border=true"
-    height="170"
     alt="Omkar's GitHub Streak"
+    height="170"
   />
 </p>
 
