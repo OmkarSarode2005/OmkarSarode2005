@@ -2,12 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OmkarSarode2005&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**2nd Year Cyber-Physical Systems Student · Machine Learning · Data Science · Fintech**
+**2nd Year Btech Student · Machine Learning · Data Science · Fintech**
 
 I like building things that solve real-world problems using data, code, and a questionable amount of caffeine.
 When I'm not working on a project, I'm probably debugging for hours because of a missing comma.
 
-- 🎓 2nd Year Cyber-Physical Systems student at **MIT Manipal**
+- 🎓 2nd Year Btech student at **MIT Manipal**
 - 🌱 Currently learning **Machine Learning, LLM Engineering, and Full-Stack Development**
 - 🌧️ Built a **Rainfall Prediction & Calibration Framework** for Bengaluru
 - 🎯 Interested in **AI, Data Science, Fintech, and Software Systems**
