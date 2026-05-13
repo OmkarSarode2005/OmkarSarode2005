@@ -78,9 +78,18 @@ When I'm not working on a project, I'm probably debugging for hours because of a
 ---
 ## GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=OmkarSarode2005&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=OmkarSarode2005&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmkarSarode2005&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=OmkarSarode2005&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false"
+    height="170"
+    alt="Omkar's GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=OmkarSarode2005&theme=github_dark&hide_border=true"
+    height="170"
+    alt="Omkar's GitHub Streak"
+  />
+</p>
 
 ---
 ## Featured Project
