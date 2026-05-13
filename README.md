@@ -6,14 +6,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmkarSarode2005)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/omkarsarodee)
 
-**2nd Year Btech Student · Machine Learning · Data Science · Fintech**
+**2nd Year Btech Student at MIT Manipal · AI Systems ·  Machine Learning · Data Science · Fintech**
 
 I like building things that solve real-world problems using data, code, and a questionable amount of caffeine.
 When I'm not working on a project, I'm probably debugging for hours because of a missing comma.
 
 - 🎓 2nd Year Btech student at **MIT Manipal**
 - 🌱 Currently learning **Machine Learning, LLM Engineering, and Full-Stack Development**
-- 🌧️ Built a **Rainfall Prediction & Calibration Framework** for Bengaluru
 - 🎯 Interested in **AI, Data Science, Fintech, and Software Systems**
 
 ---
