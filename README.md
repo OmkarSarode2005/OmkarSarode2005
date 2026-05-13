@@ -11,7 +11,6 @@ When I'm not working on a project, I'm probably debugging for hours because of a
 - 🌱 Currently learning **Machine Learning, LLM Engineering, and Full-Stack Development**
 - 🌧️ Built a **Rainfall Prediction & Calibration Framework** for Bengaluru
 - 🎯 Interested in **AI, Data Science, Fintech, and Software Systems**
-- ⚡ Fun fact: I spend more time debugging than coding
 
 ---
 
