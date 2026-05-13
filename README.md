@@ -1,22 +1,19 @@
+<h1 align="left">Hi, I'm Omkar Sarode 👋</h1>
+<h3 align="left">2nd Year Cyber-Physical Systems Student @ MIT Manipal</h3>
 
-<p align="center">
-Hi, I'm Omkar Sarode. 2nd Year Engineering Student at MIT Manipal. I’m interested in Machine Learning, Data Science, Fintech, and building technology that solves real-world problems.
+<img align="right" alt="Coding" width="420"
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4cWl0ZjNwZDV6ZW52NmM1dDJ6d3ZlN2M4bWxqMXdyd3RzMWs4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+
+<p>
+I like building things that solve real-world problems (and occasionally debugging for hours because of a missing comma).
 </p>
 
-<p align="center">
-Turning caffeine into code since day one ☕
+<p>
+<b>Interests:</b> Machine Learning • Data Science • Fintech • Software Systems
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 2nd-year Cyber-Physical Systems student at MIT Manipal
-- 🤖 Exploring Machine Learning, AI, and Data Science
-- 💸 Interested in Fintech and quantitative systems and solving real world problems
-- 🔗 Building with LLMs, agents, and workflow automation
-
----
+```bash
+$ Turning caffeine into code since day 1. ☕
 
 ## 🛠️ Tech Stack
 
