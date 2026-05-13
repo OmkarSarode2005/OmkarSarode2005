@@ -9,9 +9,9 @@
 I like building things that solve real-world problems using data, code, and a questionable amount of caffeine.
 When I'm not working on a project, I'm probably debugging for hours because of a missing comma.
 
-- 🎓 2nd Year Btech student at **MIT Manipal**
-- 🌱 Currently learning **Machine Learning, LLM Engineering, and Full-Stack Development**
-- 🎯 Interested in **AI, Data Science, Fintech, and Software Systems**
+-  2nd Year Btech student at **MIT Manipal**
+-  Currently learning **Machine Learning, LLM Engineering, and Full-Stack Development**
+-  Interested in **AI, Data Science, Fintech, and Software Systems**
 
 ---
 
