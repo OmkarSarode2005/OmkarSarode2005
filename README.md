@@ -1,8 +1,6 @@
-<h1 align="center">Hi, I'm Omkar Sarode 👋</h1>
-<h3 align="center">2nd Year Engineering Student at MIT Manipal</h3>
 
 <p align="center">
-I’m interested in Machine Learning, Data Science, Fintech, and building technology that solves real-world problems.
+Hi, I'm Omkar Sarode. 2nd Year Engineering Student at MIT Manipal. I’m interested in Machine Learning, Data Science, Fintech, and building technology that solves real-world problems.
 </p>
 
 <p align="center">
