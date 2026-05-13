@@ -11,7 +11,6 @@ I like building things that solve real-world problems (and sometimes just to fle
 <strong>Interests:</strong> Machine Learning • Data Science • Fintech • Software Systems
 </p>
 
-$ Turning caffeine into code since day 1. ☕
 
 ## 🛠️ Tech Stack
 
